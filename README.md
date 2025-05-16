@@ -32,7 +32,7 @@ sudo apt install python3 python3-pip git
 pip3 install flask
 ```
 
-### 2. Menyiapkan Webhook
+### 2. Menyiapkan Webhook (optional)
 
 ```bash
 # Buat direktori untuk webhook
